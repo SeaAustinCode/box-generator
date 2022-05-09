@@ -8,8 +8,14 @@ import React, { useState } from 'react';
 
 function App() {
 
-  // const [color, setColor] = useState(["red", "blue", "yellow"]);
+  // const [boxes, seBoxes] = useState ([
+  //   <Boxes/> 
+  // ])
 
+  // const [color, setColor] = useState(["red", "blue", "yellow"]); ---> was trying to change into an object 
+  // const addBox = (soomeBoxObject) => {
+  //   const tempBoxArray = [...Boxes]
+  // }
 
   return (
     <div className="App">
